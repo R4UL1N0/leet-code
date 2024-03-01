@@ -1,3 +1,4 @@
+package incomplete;
 public class ClimbStairs {
     
     //  1 or 2 steps til top

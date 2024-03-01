@@ -1,3 +1,4 @@
+package easy;
 public class RemoveElement {
     //  SHOULD REFACTOR TO J-- IDEIA
     public static int removeElement(int[] nums, int val) {

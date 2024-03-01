@@ -1,3 +1,4 @@
+package easy;
 public class NeedleWorkInHaystack {
 
     public static int wordInHaystack(String haystack, String needle) {

@@ -1,3 +1,4 @@
+package easy;
 public class TwoSum {
     static public int[] twoSum(int[] nums, int target) throws Exception {
 
