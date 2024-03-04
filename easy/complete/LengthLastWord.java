@@ -1,4 +1,4 @@
-package easy;
+package easy.complete;
 public class LengthLastWord {
     
     public static int lengthLastWord(String s) {

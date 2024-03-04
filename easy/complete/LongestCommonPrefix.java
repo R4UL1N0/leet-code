@@ -1,4 +1,4 @@
-package easy;
+package easy.complete;
 public class LongestCommonPrefix {
 
     static public String solution(String[] words) {

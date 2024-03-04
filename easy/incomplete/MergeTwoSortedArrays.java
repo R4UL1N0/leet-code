@@ -1,4 +1,4 @@
-package incomplete;
+package easy.incomplete;
 public class MergeTwoSortedArrays {
     
     public static ListNode solution(ListNode listOne, ListNode listTwo) {
